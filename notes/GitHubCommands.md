@@ -13,3 +13,7 @@
 % git clone                  // Clone Repo Into a New Directory
 % git branch ''              // Create a branch
 % git merge 'branch'         // Merge Branch with Main
+% git checkout 'branch'      // Access branch
+% git checkout -- <file>     // Remove uncommitted changes
+    the double dash
+    specifies as file name
